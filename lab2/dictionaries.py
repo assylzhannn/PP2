@@ -23,3 +23,25 @@ print(dic1)
 #4
 thisdict= dict(name = "Ayagoz", age= 18 )
 print(thisdict)
+#5
+thisdict = {
+  "color": "red",
+  "model": "Mustang",
+  "year": 1964
+}
+x = thisdict["color"]
+y=thisdict.get("color")
+print(x,y)
+#6
+z=thisdict.keys()
+print(z)
+thisdict["color"]= "yellow"
+print(z)
+#7
+v=thisdict.values()
+print(v)
+thisdict["color"]= "blue"
+print(v)
+#8
+x=thisdict.items()
+print(x)
