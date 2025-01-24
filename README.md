@@ -1,1 +1,3 @@
-print("Hello")
+L1. Python fundamentals. Python Intro. Python User Input. Python Get Started. Python Syntax. Python Comments. Python Variables. Python Data Types. Python Numbers. Python Casting. Python Strings. Python String Formatting.  Git.
+ 
+-L2.Python Booleans. Python Operators. Python If...Else. Python fundamentals. Python While Loops. Python Lists. Python For Loops. Python Tuples. Python Sets. Python Dictionaries.
