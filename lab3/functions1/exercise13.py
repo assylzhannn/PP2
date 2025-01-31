@@ -18,4 +18,4 @@ def guessnumber():
         if number<usrnum:
             print("You guess to high")
 
-#guessnumber()
+guessnumber()
