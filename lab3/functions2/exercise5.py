@@ -85,5 +85,5 @@ def imdbpoint(category):
             cnt += 1
     return sum/cnt if cnt > 0 else 0
 
-category = input("name movie:")
+category = input("movie category:")
 print(imdbpoint(category))
